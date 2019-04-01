@@ -1,0 +1,15 @@
+{
+  "name": "demo-app-nodejs",
+  "version": "1.0.0",
+  "description": "A demo app for testing purposes only.",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Walker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
